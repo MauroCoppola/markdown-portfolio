@@ -1,0 +1,3 @@
+At the moment I work as and **_Android_** developer using the **Java** programming language, but in my free time I like playing with the **Kotlin** language and other technologies and tools, such as **C#** for _Universal Windows Platform_ applications, _Unity_ games, and _.NET Core_ applications, **HTML**, **CSS** and **JavaScript** for _web_, _desktop_ (via **Electron**) and _mobile_ (using **React Native**, even if I'm learning **Dart** and **Flutter** framework too) applications.
+
+My passion (and goal at work) is _building **beautiful** and **accessible** interfaces_ people will love to use.
